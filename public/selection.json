@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:42:07.421Z",
+  "updatedAt": "2026-10-02T19:00:30.716Z",
   "posts": [
     {
       "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwttqpue422n",
@@ -12,6 +12,20 @@
         "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
       },
       "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwttqpue422n",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://t.co/gkV0f6zS4l"
+            }
+          ],
+          "index": {
+            "byteEnd": 66,
+            "byteStart": 51
+          }
+        }
+      ],
       "video": {
         "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifqn5puc6yiwuirzblnx6rbthgrb4js6z6fwrfknmdzhhhwyjy6tm/playlist.m3u8",
         "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifqn5puc6yiwuirzblnx6rbthgrb4js6z6fwrfknmdzhhhwyjy6tm/thumbnail.jpg",
@@ -48,6 +62,20 @@
         "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
       },
       "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwonhwsebk26",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=zWz1KbknIZk"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 33
+          }
+        }
+      ],
       "video": {
         "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifdwmp2hz2ezkp2uaesabruyy4o2rit2uwoonfhxn3vz2qexfbyta/playlist.m3u8",
         "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifdwmp2hz2ezkp2uaesabruyy4o2rit2uwoonfhxn3vz2qexfbyta/thumbnail.jpg",
@@ -342,29 +370,6 @@
         "width": 1920,
         "height": 1080
       }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mrancdbjds2t",
-      "cid": "bafyreib6tnouo6e364a26ueybtwtxp422vtxkb5mut4cc4mu3jreebrl5i",
-      "text": "Experimenting with calibrating the overhead camera. Using OpenCV to process out the lens distortion. Book text is just readable at 4k.",
-      "createdAt": "2026-07-22T15:30:09.512Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mrancdbjds2t",
-      "images": [
-        {
-          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreielghygtrnwhyfr3q2g63enyysr2vqdjvkefa3nax3ghqbaecraju",
-          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreielghygtrnwhyfr3q2g63enyysr2vqdjvkefa3nax3ghqbaecraju",
-          "alt": "",
-          "aspectRatio": {
-            "height": 2160,
-            "width": 3840
-          }
-        }
-      ]
     }
   ]
 }
