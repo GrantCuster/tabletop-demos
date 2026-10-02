@@ -32,7 +32,7 @@ a { color: inherit; }
 button { font: inherit; cursor: pointer; }
 button:disabled { cursor: default; opacity: .4; }
 
-.gallery-head { display: flex; justify-content: space-between; padding: 12px; border-bottom: 1px solid var(--surface); background: var(--bg); color: var(--yellow); font-size: 14px; line-height: 1.4; }
+.gallery-head { display: flex; justify-content: space-between; padding: 16px 12px; border-bottom: 1px solid var(--surface); background: var(--bg); color: var(--yellow); font-size: 14px; line-height: 1.4; }
 .gallery-head .byline { color: var(--orange); }
 .gallery-head a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; background: var(--bg); }
