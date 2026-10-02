@@ -21,7 +21,7 @@ export function Gallery() {
   if (!selection) return <main className="status">Loading demos…</main>
   return <>
     <header className="gallery-head">
-      <span>{selection.posts.length} tabletop demos</span>
+      <span>Tabletop demos</span>
       <span className="byline">by <a href="https://grantcuster.com" target="_blank" rel="noreferrer">Grant Custer</a></span>
     </header>
     <main>
