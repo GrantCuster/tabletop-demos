@@ -1,0 +1,370 @@
+{
+  "updatedAt": "2026-10-02T16:42:07.421Z",
+  "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwttqpue422n",
+      "cid": "bafyreihzf53qvjihclqis7ip3f6326ked7dvzbtswmua5h6pt52r24je2e",
+      "text": "Exploring Andrew Sutherland's paper computer demo (t.co/gkV0f6zS4l) on the tabletop:",
+      "createdAt": "2026-10-01T21:52:08.104Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwttqpue422n",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifqn5puc6yiwuirzblnx6rbthgrb4js6z6fwrfknmdzhhhwyjy6tm/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifqn5puc6yiwuirzblnx6rbthgrb4js6z6fwrfknmdzhhhwyjy6tm/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwraxcai7s2f",
+      "cid": "bafyreidvnrqdpwx6eubtnv3rrqztjkncjk4jj35q2e6o3ypbjtmbqcgycu",
+      "text": "Getting (pictures of) books into the digital tabletop.",
+      "createdAt": "2026-09-30T21:10:28.131Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwraxcai7s2f",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreibxjmjbpgt7niq6jboo2fzmazyfat6zacodxm3sbwarzgfd67tydq/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreibxjmjbpgt7niq6jboo2fzmazyfat6zacodxm3sbwarzgfd67tydq/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwonhwsebk26",
+      "cid": "bafyreibswy6763rq6xu2ut5iv32lvywvq6wqkujq4l7zwsgdwqteiobqpe",
+      "text": "Exploring the 10/GUI demo video (www.youtube.com/watch?v=zWz1...) and multi-touch possibilities on the tabletop:",
+      "createdAt": "2026-09-29T20:16:32.246Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwonhwsebk26",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifdwmp2hz2ezkp2uaesabruyy4o2rit2uwoonfhxn3vz2qexfbyta/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifdwmp2hz2ezkp2uaesabruyy4o2rit2uwoonfhxn3vz2qexfbyta/thumbnail.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwlpcuhr6k2y",
+      "cid": "bafyreihuddy6lm4omuz3iw4lvfa6frfeodul34q4agzjus3a5do4kospbm",
+      "text": "A backpack demo:",
+      "createdAt": "2026-09-28T16:11:30.298Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwlpcuhr6k2y",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiafhepwlrargb4wukimoq4dxdsorppjsj2ltahhulmtniccleuqkq/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiafhepwlrargb4wukimoq4dxdsorppjsj2ltahhulmtniccleuqkq/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwlnnbplys2b",
+      "cid": "bafyreieh2snrk7ip3xlposh5kjmmwg5mczk6fefmeu3zafsjoiybwsdfgm",
+      "text": "Added a board link feature to help navigate the tabletop",
+      "createdAt": "2026-09-28T15:41:32.247Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwlnnbplys2b",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreib25jzibox5uvbwlysp5hhmg54e7xcdv5ra6v2gelsmd6qwbhjygq/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreib25jzibox5uvbwlysp5hhmg54e7xcdv5ra6v2gelsmd6qwbhjygq/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwep5jt6ic2r",
+      "cid": "bafyreig5or6fcpqeluzk2qxrj2ipno7goisii67ym4qlzbfjhn2hpmekvq",
+      "text": "Experimenting with pinned cards and frames on the tabletop;",
+      "createdAt": "2026-09-25T21:19:53.198Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwep5jt6ic2r",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiflehbo73qvkogcip6hwtnou2xvmp5rxj3eikbgtkmhd6hyvnlm6u/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiflehbo73qvkogcip6hwtnou2xvmp5rxj3eikbgtkmhd6hyvnlm6u/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwdzapcsgs2v",
+      "cid": "bafyreifnvwhk2fxednfpcxbw4dimnow5luzifi6q72fepflx2njot3gjqu",
+      "text": "New tabletop recording setup:",
+      "createdAt": "2026-09-25T14:47:57.295Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwdzapcsgs2v",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifhwsfkp3y5wv5arwxt7lh7jzkbktr2dsgxzvdz36jkotamlhljva/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifhwsfkp3y5wv5arwxt7lh7jzkbktr2dsgxzvdz36jkotamlhljva/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mvnxlp4jb223",
+      "cid": "bafyreibltrrzksk3xjipv6hbe3sgfbrpgchemkp2vcallzwu27tc64yoka",
+      "text": "I can post a blue sky from the tabletop now using a frame.",
+      "createdAt": "2026-09-16T20:19:44.461Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mvnxlp4jb223",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiezvb4lht2lmidzb45yoeusuoh5f6ji5qpglubk2rokxf4uqmo4pe/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiezvb4lht2lmidzb45yoeusuoh5f6ji5qpglubk2rokxf4uqmo4pe/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mvfwx3ojjs2r",
+      "cid": "bafyreib4fh3hjmk7ijxhwa554d37ue7c4dwtreg4nv2nb2qpkwdwhkjva4",
+      "text": "Experimenting with importing web pages and text files onto the canvas.",
+      "createdAt": "2026-09-13T15:46:55.083Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mvfwx3ojjs2r",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifamdahmf4sde7fi2b4wbxc5stbnatel6rhw6hxjik7amb55yrshm/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifamdahmf4sde7fi2b4wbxc5stbnatel6rhw6hxjik7amb55yrshm/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mvbgq3rc3k24",
+      "cid": "bafyreictcug4bbwjpkdu4ef65p32pitrs2jvc36akglvgtjby4wjaqlfpi",
+      "text": "Putting together frames and cards to preview and think through writing:",
+      "createdAt": "2026-09-11T20:46:01.470Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mvbgq3rc3k24",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreidftddxnbnknlhwakseh7udfxdxxtbi7g7opulrxsn4a5sg3ues6y/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreidftddxnbnknlhwakseh7udfxdxxtbi7g7opulrxsn4a5sg3ues6y/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mv6bdkz2dc2n",
+      "cid": "bafyreieysejeyycemukg6ztmox54hbwwulhsfkosqv2jw3db63xw2tk2zu",
+      "text": "Working through creation and deletion on the tabletop. Two-finger tap feels a little more reliable than double-tap, and paint-select feels great.",
+      "createdAt": "2026-09-10T14:31:33.322Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mv6bdkz2dc2n",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreig53m72dozvt6fwys7cqznasplnjqcvg3jacowowdjstxbktf4omi/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreig53m72dozvt6fwys7cqznasplnjqcvg3jacowowdjstxbktf4omi/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mv3vzbskmk23",
+      "cid": "bafyreiejatluldg2ir7mtxps5auduydphvoxl7cmg4j5xqm6ljjrpm5kvy",
+      "text": "Input capture on the tabletop",
+      "createdAt": "2026-09-09T16:03:37.491Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mv3vzbskmk23",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihewrczbc5fbeufcfsilbbslmledfj3uglqrl2tbz3lbi4tneowqy/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihewrczbc5fbeufcfsilbbslmledfj3uglqrl2tbz3lbi4tneowqy/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mstgin3qgk2l",
+      "cid": "bafyreia5nz3qjlnc7yo5sfc3dhhi6ldfmnuxjb7kq3luk4fqasysb7hm2u",
+      "text": "CSS styles and text are applied per cell based on position. Global styles can be applied at the top.",
+      "createdAt": "2026-08-11T20:14:11.610Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mstgin3qgk2l",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiecvvx5javytgz3j55lbrjhkxyui5hhgtjxt3x63hzy54dd32jyhi/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiecvvx5javytgz3j55lbrjhkxyui5hhgtjxt3x63hzy54dd32jyhi/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3msluvbimas2s",
+      "cid": "bafyreidiekvwvae7ptevktvygoaag27vgwdqesq2w3ygm3g2lr6fm7pdgm",
+      "text": "Testing out OBS controls on the tabletop.",
+      "createdAt": "2026-08-08T20:10:30.135Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3msluvbimas2s",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreigtvghjdvchrfqoqco6rldkvkm4ya3pljkk4xjtxhfwnhvtnqu46y/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreigtvghjdvchrfqoqco6rldkvkm4ya3pljkk4xjtxhfwnhvtnqu46y/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3msjd3k3xqs2y",
+      "cid": "bafyreiablz6inrgdfahiwvafnt6xar7gz3newbf3hozqrncef6zdu3tvhi",
+      "text": "Window management from the digital tabletop, running through Niri scripts:",
+      "createdAt": "2026-08-07T19:46:33.655Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3msjd3k3xqs2y",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreide2jbvim6hreglfqkwd7mfamw5x2gv3nm3lqhmw2qai2ekeyyacu/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreide2jbvim6hreglfqkwd7mfamw5x2gv3nm3lqhmw2qai2ekeyyacu/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3msee3xzvcc2s",
+      "cid": "bafyreidctyh3364aspdv6i7jcnpgrigm2kiq3gwarvt3i3eg6xi5oprrva",
+      "text": "Windows minimize onto the tabletop - then I can throw them back",
+      "createdAt": "2026-08-05T20:21:23.317Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3msee3xzvcc2s",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihxhnv75ren5tgmax5mtp4v7fa2xxevewf7yfd22mmp4ads7cgywa/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihxhnv75ren5tgmax5mtp4v7fa2xxevewf7yfd22mmp4ads7cgywa/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3msbfmwgipc2l",
+      "cid": "bafyreihyopqklvpzoh7q4s7athx25cjchewflvpgdwrhodte4kcqahzp2y",
+      "text": "Trying out an extension to send quotes onto the board:",
+      "createdAt": "2026-08-04T16:10:46.586Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3msbfmwgipc2l",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreigbkd3pw6f7fuxnr5sskm7iixqfcjbqslvl72oi25wh6mxgz52cdy/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreigbkd3pw6f7fuxnr5sskm7iixqfcjbqslvl72oi25wh6mxgz52cdy/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3ms6uilugsk2f",
+      "cid": "bafyreidplzkvuylhmvtag42wey3uzviivggijuuguhy6ftsurr7p2canry",
+      "text": "Experimenting with throwing into the trash on the tabletop. Much better than selecting and hitting keyboard delete.",
+      "createdAt": "2026-08-03T15:58:48.203Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3ms6uilugsk2f",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreialtmscwpfrkmwbb6kz6r76rjppta2w4bemjzcb3rf6pqd4tspm3m/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreialtmscwpfrkmwbb6kz6r76rjppta2w4bemjzcb3rf6pqd4tspm3m/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mrn5pbzexc2m",
+      "cid": "bafyreidxsrg2nw4wudsfveas2lrp26v6iai3llfn7lubt2ocrjur6f3ti4",
+      "text": "Trying out canvas-based paragraph reordering pared with a live document preview.",
+      "createdAt": "2026-07-27T14:55:41.146Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mrn5pbzexc2m",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiakiduujlmnln5cifzjlxsuc3b6wv3bfdww6xzntbnm3v4qmxoowe/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiakiduujlmnln5cifzjlxsuc3b6wv3bfdww6xzntbnm3v4qmxoowe/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mrancdbjds2t",
+      "cid": "bafyreib6tnouo6e364a26ueybtwtxp422vtxkb5mut4cc4mu3jreebrl5i",
+      "text": "Experimenting with calibrating the overhead camera. Using OpenCV to process out the lens distortion. Book text is just readable at 4k.",
+      "createdAt": "2026-07-22T15:30:09.512Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mrancdbjds2t",
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreielghygtrnwhyfr3q2g63enyysr2vqdjvkefa3nax3ghqbaecraju",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreielghygtrnwhyfr3q2g63enyysr2vqdjvkefa3nax3ghqbaecraju",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2160,
+            "width": 3840
+          }
+        }
+      ]
+    }
+  ]
+}
