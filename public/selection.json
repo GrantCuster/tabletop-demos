@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-02T19:00:30.716Z",
+  "updatedAt": "2026-10-06T19:51:30.778Z",
   "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mx5sqrx7vc27",
+      "cid": "bafyreigh6ezwz4co4mc4cqgeo4szlojr3roclqgwc3j3izhujwc6vvj43e",
+      "text": "Thinking about the role of decoration on the tabletop:",
+      "createdAt": "2026-10-05T21:00:53.938Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mx5sqrx7vc27",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihdrbvqsx3z5ib4quwrcu7dphbdl5yhzfz5cr3lgmcfcdgsalfasi/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihdrbvqsx3z5ib4quwrcu7dphbdl5yhzfz5cr3lgmcfcdgsalfasi/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
     {
       "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwttqpue422n",
       "cid": "bafyreihzf53qvjihclqis7ip3f6326ked7dvzbtswmua5h6pt52r24je2e",
