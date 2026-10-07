@@ -1,14 +1,17 @@
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import Hls from 'hls.js'
 
 export function Video({ src, poster, label }: { src: string; poster?: string; label?: string }) {
   const ref = useRef<HTMLVideoElement>(null)
+  const [showControls, setShowControls] = useState(false)
   useEffect(() => {
     const video = ref.current
     if (!video) return
     let hls: Hls | undefined
     let visible = false
-    const playIfVisible = () => { if (visible) video.play().catch(() => undefined) }
+    setShowControls(false)
+    const play = () => video.play().catch(() => undefined)
+    const playIfVisible = () => { if (visible) play() }
     // Chromium now reports native HLS support in some builds, but its native
     // pipeline rejects Bluesky's cross-origin segment requests. Prefer hls.js
     // anywhere Media Source Extensions are available; keep native HLS for Safari.
@@ -23,7 +26,7 @@ export function Video({ src, poster, label }: { src: string; poster?: string; la
     }
     const observer = new IntersectionObserver(([entry]) => {
       visible = entry.isIntersecting
-      if (visible) video.play().catch(() => undefined)
+      if (visible) play()
       else video.pause()
     }, { threshold: 0.55 })
     observer.observe(video)
@@ -37,5 +40,18 @@ export function Video({ src, poster, label }: { src: string; poster?: string; la
       video.load()
     }
   }, [src])
-  return <video ref={ref} poster={poster} aria-label={label || 'Demo video'} muted loop playsInline controls />
+  return <video
+    ref={ref}
+    poster={poster}
+    aria-label={label || 'Demo video'}
+    muted
+    loop
+    playsInline
+    controls={showControls}
+    onMouseEnter={() => setShowControls(true)}
+    onMouseLeave={() => setShowControls(false)}
+    onFocus={() => setShowControls(true)}
+    onBlur={() => setShowControls(false)}
+    onTouchStart={() => setShowControls(true)}
+  />
 }
