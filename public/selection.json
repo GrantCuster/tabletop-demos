@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-10-06T19:51:30.778Z",
+  "updatedAt": "2026-10-20T19:19:32.893Z",
   "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3myde264t622o",
+      "cid": "bafyreic2jb56ygtysflimffpw6hdso2jxekjd7or5iv76hvhdjgkbbbywy",
+      "text": "Using the digital tabletop with a smart TV to make ad hoc ambient dashboards:",
+      "createdAt": "2026-10-20T19:18:52.624Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3myde264t622o",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreicrweyk3shugxzdxb5kxhfyfujktg2k5a4v7aszsde7q47svqpapu/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreicrweyk3shugxzdxb5kxhfyfujktg2k5a4v7aszsde7q47svqpapu/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3myawyf4gqk2v",
+      "cid": "bafyreiczangrqiztyh4vmna2lwxux43zfmn2iipzcu4cu2eh74aocsi374",
+      "text": "Platform tracking on the tabletop:",
+      "createdAt": "2026-10-19T20:19:54.723Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3myawyf4gqk2v",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiek2sypwjwlsfnhyxe457sc72fsl42le6diml3c5gezykk4kvjrbq/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiek2sypwjwlsfnhyxe457sc72fsl42le6diml3c5gezykk4kvjrbq/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3my3q2i6n322c",
+      "cid": "bafyreiezkbbzfr7cqd52uhb2fy263exmhxrn3vmut4cwllt4ob6uxcpb5a",
+      "text": "Touch-based dynamic camera cropping on the tabletop:",
+      "createdAt": "2026-10-17T18:32:30.164Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3my3q2i6n322c",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifo3vmjqh7mbiujn24kburrc6hyg7z5pv7huvv4ow2von7b4jzfua/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifo3vmjqh7mbiujn24kburrc6hyg7z5pv7huvv4ow2von7b4jzfua/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mxwebery7s2q",
+      "cid": "bafyreid5e5sqe7sqp54rf2thratold2axa2p35q7xycjiliopjjm5cpndi",
+      "text": "Drones on the digital tabletop:",
+      "createdAt": "2026-10-15T15:18:17.891Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mxwebery7s2q",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreib6sg4stdwbvnupdhgjpdrlvfsf4tunpkcpzg6bnsbdectkfxhqxy/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreib6sg4stdwbvnupdhgjpdrlvfsf4tunpkcpzg6bnsbdectkfxhqxy/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mxh42jupf22e",
+      "cid": "bafyreiac3yqatu5y56djo6j5fgofxxr7rfkgy5lufkzmqatm2e5qjlbuae",
+      "text": "Working on a tabletop collage app, and enjoying this \"write to navigate\" experience.",
+      "createdAt": "2026-10-09T13:41:22.332Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mxh42jupf22e",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiaa7amikmquruok3u4uu743rni6sehtfgg2yvfnpj7rein6xgcmzu/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiaa7amikmquruok3u4uu743rni6sehtfgg2yvfnpj7rein6xgcmzu/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
     {
       "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mx5sqrx7vc27",
       "cid": "bafyreigh6ezwz4co4mc4cqgeo4szlojr3roclqgwc3j3izhujwc6vvj43e",
@@ -331,60 +421,6 @@
       "video": {
         "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihxhnv75ren5tgmax5mtp4v7fa2xxevewf7yfd22mmp4ads7cgywa/playlist.m3u8",
         "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihxhnv75ren5tgmax5mtp4v7fa2xxevewf7yfd22mmp4ads7cgywa/thumbnail.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3msbfmwgipc2l",
-      "cid": "bafyreihyopqklvpzoh7q4s7athx25cjchewflvpgdwrhodte4kcqahzp2y",
-      "text": "Trying out an extension to send quotes onto the board:",
-      "createdAt": "2026-08-04T16:10:46.586Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3msbfmwgipc2l",
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreigbkd3pw6f7fuxnr5sskm7iixqfcjbqslvl72oi25wh6mxgz52cdy/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreigbkd3pw6f7fuxnr5sskm7iixqfcjbqslvl72oi25wh6mxgz52cdy/thumbnail.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3ms6uilugsk2f",
-      "cid": "bafyreidplzkvuylhmvtag42wey3uzviivggijuuguhy6ftsurr7p2canry",
-      "text": "Experimenting with throwing into the trash on the tabletop. Much better than selecting and hitting keyboard delete.",
-      "createdAt": "2026-08-03T15:58:48.203Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3ms6uilugsk2f",
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreialtmscwpfrkmwbb6kz6r76rjppta2w4bemjzcb3rf6pqd4tspm3m/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreialtmscwpfrkmwbb6kz6r76rjppta2w4bemjzcb3rf6pqd4tspm3m/thumbnail.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mrn5pbzexc2m",
-      "cid": "bafyreidxsrg2nw4wudsfveas2lrp26v6iai3llfn7lubt2ocrjur6f3ti4",
-      "text": "Trying out canvas-based paragraph reordering pared with a live document preview.",
-      "createdAt": "2026-07-27T14:55:41.146Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mrn5pbzexc2m",
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiakiduujlmnln5cifzjlxsuc3b6wv3bfdww6xzntbnm3v4qmxoowe/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiakiduujlmnln5cifzjlxsuc3b6wv3bfdww6xzntbnm3v4qmxoowe/thumbnail.jpg",
         "width": 1920,
         "height": 1080
       }
