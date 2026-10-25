@@ -42,7 +42,7 @@ export function toDemo(view: FeedViewPost): DemoPost {
 }
 
 export async function getAuthorPosts(actor: string, cursor?: string) {
-  const params = new URLSearchParams({ actor: actorFromInput(actor), limit: '50', filter: 'posts_no_replies' })
+  const params = new URLSearchParams({ actor: actorFromInput(actor), limit: '50', filter: 'posts_with_replies' })
   if (cursor) params.set('cursor', cursor)
   const response = await fetch(`${API}/app.bsky.feed.getAuthorFeed?${params}`)
   if (!response.ok) throw new Error(response.status === 400 ? 'That Bluesky profile could not be found.' : `Bluesky returned ${response.status}.`)

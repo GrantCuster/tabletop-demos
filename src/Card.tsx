@@ -1,5 +1,6 @@
 import type { DemoPost, TextFacet } from './types'
 import { Video } from './Video'
+import { Photo } from './Photo'
 
 function relativeDate(value: string) {
   const elapsed = new Date(value).getTime() - Date.now()
@@ -60,7 +61,7 @@ export function Card({ post, selecting, selected, onToggle }: { post: DemoPost; 
       </div>
     </div>
     <div className="media">
-      {post.video ? <Video src={post.video.playlist} poster={post.video.thumbnail} label={post.video.alt} /> : image ? <img src={image.fullsize} alt={image.alt} loading="lazy" /> : <div className="no-media">Text post</div>}
+      {post.video ? <Video src={post.video.playlist} poster={post.video.thumbnail} label={post.video.alt} /> : image ? <Photo src={image.fullsize} alt={image.alt} /> : <div className="no-media">Text post</div>}
       {selecting && <button className="select" onClick={onToggle} aria-pressed={selected}><span>{selected ? '✓' : '+'}</span>{selected ? 'Selected' : 'Select'}</button>}
     </div>
     {date && <a className="post-date" href={post.postUrl} target="_blank" rel="noreferrer"><time dateTime={post.createdAt}>{date}</time></a>}
