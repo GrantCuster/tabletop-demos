@@ -54,7 +54,7 @@ export function Curator() {
   }
 
   return <main className="curator">
-    <nav><a href="/" className="back">← Gallery</a><span>{selectedPosts.length} selected</span></nav>
+    <nav><a href="/" className="back">← Gallery</a><a href="/collage">Collage</a><span>{selectedPosts.length} selected</span></nav>
     <section className="curator-head">
       <div><h1>Choose posts</h1><p>Posts by @{actor}</p></div>
       <div className="save-area">{saved && <span>Saved</span>}<button className="export" disabled={saving} onClick={save}>{saving ? 'Saving…' : 'Save'}</button></div>

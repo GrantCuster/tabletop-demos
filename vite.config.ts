@@ -40,6 +40,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
+        collage: new URL('collage/index.html', import.meta.url).pathname,
         gallery: new URL('index.html', import.meta.url).pathname,
         curate: new URL('curate/index.html', import.meta.url).pathname,
       },
