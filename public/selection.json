@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-29T19:48:40.709Z",
+  "updatedAt": "2026-11-02T20:06:33.339Z",
   "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mzdrnr7jhc24",
+      "cid": "bafyreidqcq3wavachzzqn4eey62obvpj6zzlj2eiguhex3vbfgfsa2zknu",
+      "text": "Experimenting with how a browser should work in my tabletop canvas:",
+      "createdAt": "2026-11-02T16:47:40.442Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mzdrnr7jhc24",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihlflmce3vg4clky7kths3hema45dlrtiyeol63weygom3amtn6ji/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihlflmce3vg4clky7kths3hema45dlrtiyeol63weygom3amtn6ji/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
     {
       "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3myxlaeepwc2b",
       "cid": "bafyreibfgu4mc2xeyhsmsniy5cmqayegtx5xeadf3bsduvmwtxsak2b73a",
@@ -327,42 +345,6 @@
       "video": {
         "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreib25jzibox5uvbwlysp5hhmg54e7xcdv5ra6v2gelsmd6qwbhjygq/playlist.m3u8",
         "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreib25jzibox5uvbwlysp5hhmg54e7xcdv5ra6v2gelsmd6qwbhjygq/thumbnail.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwep5jt6ic2r",
-      "cid": "bafyreig5or6fcpqeluzk2qxrj2ipno7goisii67ym4qlzbfjhn2hpmekvq",
-      "text": "Experimenting with pinned cards and frames on the tabletop;",
-      "createdAt": "2026-09-25T21:19:53.198Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwep5jt6ic2r",
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiflehbo73qvkogcip6hwtnou2xvmp5rxj3eikbgtkmhd6hyvnlm6u/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiflehbo73qvkogcip6hwtnou2xvmp5rxj3eikbgtkmhd6hyvnlm6u/thumbnail.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwdzapcsgs2v",
-      "cid": "bafyreifnvwhk2fxednfpcxbw4dimnow5luzifi6q72fepflx2njot3gjqu",
-      "text": "New tabletop recording setup:",
-      "createdAt": "2026-09-25T14:47:57.295Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwdzapcsgs2v",
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifhwsfkp3y5wv5arwxt7lh7jzkbktr2dsgxzvdz36jkotamlhljva/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifhwsfkp3y5wv5arwxt7lh7jzkbktr2dsgxzvdz36jkotamlhljva/thumbnail.jpg",
         "width": 1920,
         "height": 1080
       }
