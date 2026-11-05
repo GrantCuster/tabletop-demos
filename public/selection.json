@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-02T20:06:33.339Z",
+  "updatedAt": "2026-11-05T15:26:01.019Z",
   "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mzl5wjuxas2r",
+      "cid": "bafyreif346dtenyss7yjfu7zvwjdit2mmmwfuyhtdbstpa7qi3hocwgb3u",
+      "text": "Experimenting with sending content from the tabletop to other screens. Makes it feel more like the entire room is my desktop.",
+      "createdAt": "2026-11-05T15:15:57.816Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mzl5wjuxas2r",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihnb3wplveklqsjgtctbqmxxws7jlguxobhtugomrgtywg5lzvuua/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihnb3wplveklqsjgtctbqmxxws7jlguxobhtugomrgtywg5lzvuua/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
     {
       "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mzdrnr7jhc24",
       "cid": "bafyreidqcq3wavachzzqn4eey62obvpj6zzlj2eiguhex3vbfgfsa2zknu",
@@ -227,124 +245,6 @@
       "video": {
         "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihdrbvqsx3z5ib4quwrcu7dphbdl5yhzfz5cr3lgmcfcdgsalfasi/playlist.m3u8",
         "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreihdrbvqsx3z5ib4quwrcu7dphbdl5yhzfz5cr3lgmcfcdgsalfasi/thumbnail.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwttqpue422n",
-      "cid": "bafyreihzf53qvjihclqis7ip3f6326ked7dvzbtswmua5h6pt52r24je2e",
-      "text": "Exploring Andrew Sutherland's paper computer demo (t.co/gkV0f6zS4l) on the tabletop:",
-      "createdAt": "2026-10-01T21:52:08.104Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwttqpue422n",
-      "facets": [
-        {
-          "features": [
-            {
-              "$type": "app.bsky.richtext.facet#link",
-              "uri": "https://t.co/gkV0f6zS4l"
-            }
-          ],
-          "index": {
-            "byteEnd": 66,
-            "byteStart": 51
-          }
-        }
-      ],
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifqn5puc6yiwuirzblnx6rbthgrb4js6z6fwrfknmdzhhhwyjy6tm/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifqn5puc6yiwuirzblnx6rbthgrb4js6z6fwrfknmdzhhhwyjy6tm/thumbnail.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwraxcai7s2f",
-      "cid": "bafyreidvnrqdpwx6eubtnv3rrqztjkncjk4jj35q2e6o3ypbjtmbqcgycu",
-      "text": "Getting (pictures of) books into the digital tabletop.",
-      "createdAt": "2026-09-30T21:10:28.131Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwraxcai7s2f",
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreibxjmjbpgt7niq6jboo2fzmazyfat6zacodxm3sbwarzgfd67tydq/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreibxjmjbpgt7niq6jboo2fzmazyfat6zacodxm3sbwarzgfd67tydq/thumbnail.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwonhwsebk26",
-      "cid": "bafyreibswy6763rq6xu2ut5iv32lvywvq6wqkujq4l7zwsgdwqteiobqpe",
-      "text": "Exploring the 10/GUI demo video (www.youtube.com/watch?v=zWz1...) and multi-touch possibilities on the tabletop:",
-      "createdAt": "2026-09-29T20:16:32.246Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwonhwsebk26",
-      "facets": [
-        {
-          "features": [
-            {
-              "$type": "app.bsky.richtext.facet#link",
-              "uri": "https://www.youtube.com/watch?v=zWz1KbknIZk"
-            }
-          ],
-          "index": {
-            "byteEnd": 64,
-            "byteStart": 33
-          }
-        }
-      ],
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifdwmp2hz2ezkp2uaesabruyy4o2rit2uwoonfhxn3vz2qexfbyta/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreifdwmp2hz2ezkp2uaesabruyy4o2rit2uwoonfhxn3vz2qexfbyta/thumbnail.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwlpcuhr6k2y",
-      "cid": "bafyreihuddy6lm4omuz3iw4lvfa6frfeodul34q4agzjus3a5do4kospbm",
-      "text": "A backpack demo:",
-      "createdAt": "2026-09-28T16:11:30.298Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwlpcuhr6k2y",
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiafhepwlrargb4wukimoq4dxdsorppjsj2ltahhulmtniccleuqkq/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreiafhepwlrargb4wukimoq4dxdsorppjsj2ltahhulmtniccleuqkq/thumbnail.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3mwlnnbplys2b",
-      "cid": "bafyreieh2snrk7ip3xlposh5kjmmwg5mczk6fefmeu3zafsjoiybwsdfgm",
-      "text": "Added a board link feature to help navigate the tabletop",
-      "createdAt": "2026-09-28T15:41:32.247Z",
-      "author": {
-        "handle": "grantcuster.com",
-        "displayName": "grant",
-        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
-      },
-      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3mwlnnbplys2b",
-      "video": {
-        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreib25jzibox5uvbwlysp5hhmg54e7xcdv5ra6v2gelsmd6qwbhjygq/playlist.m3u8",
-        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreib25jzibox5uvbwlysp5hhmg54e7xcdv5ra6v2gelsmd6qwbhjygq/thumbnail.jpg",
         "width": 1920,
         "height": 1080
       }
