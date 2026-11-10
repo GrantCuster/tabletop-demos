@@ -68,7 +68,10 @@ export function Curator() {
       .filter(post => next.has(post.uri))
       .map(post => latest.get(post.uri) ?? post)
     const additions = postsRef.current.filter(post => next.has(post.uri) && !savedUris.has(post.uri))
-    return { updatedAt: new Date().toISOString(), posts: [...retained, ...additions] }
+    return {
+      updatedAt: new Date().toISOString(),
+      posts: [...retained, ...additions].sort((a, b) => Date.parse(b.createdAt) - Date.parse(a.createdAt)),
+    }
   }
 
   function scheduleSave(next: Set<string>) {

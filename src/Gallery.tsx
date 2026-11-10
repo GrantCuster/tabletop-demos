@@ -19,13 +19,18 @@ export function Gallery() {
     return () => observer.disconnect()
   }, [selection])
   if (!selection) return <main className="status">Loading demos…</main>
+  const posts = [...selection.posts].sort((a, b) => Date.parse(b.createdAt) - Date.parse(a.createdAt))
   return <>
     <header className="gallery-head">
-      <span>Tabletop demos</span>
-      <span className="byline">by <a href="https://grantcuster.com" target="_blank" rel="noreferrer">Grant Custer</a></span>
+      <div className="gallery-head-row">
+        <span className="gallery-title">Tabletop</span>
+        <span className="byline">by <a href="https://grantcuster.com" target="_blank" rel="noreferrer">Grant Custer</a></span>
+      </div>
+      <p className="gallery-description">An ongoing series of demos exploring creative interfaces for a large multi-touch digital canvas.</p>
+      <a className="gallery-setup-link" href="https://feed.grantcuster.com/post/2026-11-03-10-51-03-my-tabletop-computer-setup" target="_blank" rel="noreferrer">Read more about the physical setup</a>
     </header>
     <main>
-      {selection.posts.length ? <div className="grid">{selection.posts.slice(0, visible).map(post => <Card key={post.uri} post={post} />)}</div> : <section className="empty"><p>No demos selected yet.</p><a href="/curate">Open the curator</a></section>}
+      {posts.length ? <div className="grid">{posts.slice(0, visible).map(post => <Card key={post.uri} post={post} />)}</div> : <section className="empty"><p>No demos selected yet.</p><a href="/curate">Open the curator</a></section>}
       <div ref={sentinel} className="sentinel" />
     </main>
   </>
