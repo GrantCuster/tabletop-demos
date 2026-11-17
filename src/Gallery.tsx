@@ -27,7 +27,8 @@ export function Gallery() {
         <span className="byline">by <a href="https://grantcuster.com" target="_blank" rel="noreferrer">Grant Custer</a></span>
       </div>
       <p className="gallery-description">An ongoing series of demos exploring creative interfaces for a large multi-touch digital canvas.</p>
-      <a className="gallery-setup-link" href="https://feed.grantcuster.com/post/2026-11-03-10-51-03-my-tabletop-computer-setup" target="_blank" rel="noreferrer">Read more about the physical setup</a>
+      <a className="gallery-setup-link gallery-collages-link" href="https://collages.grantcuster.com" target="_blank" rel="noreferrer">View collages from the tabletop</a>
+      <a className="gallery-setup-link gallery-setup-article-link" href="https://feed.grantcuster.com/post/2026-11-03-10-51-03-my-tabletop-computer-setup" target="_blank" rel="noreferrer">Read more about the physical setup</a>
     </header>
     <main>
       {posts.length ? <div className="grid">{posts.slice(0, visible).map(post => <Card key={post.uri} post={post} />)}</div> : <section className="empty"><p>No demos selected yet.</p><a href="/curate">Open the curator</a></section>}
