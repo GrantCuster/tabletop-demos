@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-17T17:56:48.074Z",
+  "updatedAt": "2026-11-20T17:27:01.047Z",
   "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2r334i5vc25",
+      "cid": "bafyreiag4y3b3ul7a3ve5n32wvztfupk3yidqtcx64omt6jbdxafi2gn6q",
+      "text": "Trying out an inspect block as a way to peek into the context of the images I collage on the tabletop.",
+      "createdAt": "2026-11-20T17:06:00.369Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3n2r334i5vc25",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreichlm5hcc7kamryfgwnfev47sb3rkqasgeiknywehxpcs5whhzjxe/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreichlm5hcc7kamryfgwnfev47sb3rkqasgeiknywehxpcs5whhzjxe/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2jyfhzpsc2s",
+      "cid": "bafyreicbymip3mt2jldxmbi5lpmqr5sgviok3wtkat4cpxb5eh57x3otva",
+      "text": "Revamped printing and scanning on the tabletop:",
+      "createdAt": "2026-11-17T21:29:28.629Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3n2jyfhzpsc2s",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreibxtglnet45axyadp2t7t4j5zc5kdx7lkacwuhqq4efnm2r6o4b7q/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreibxtglnet45axyadp2t7t4j5zc5kdx7lkacwuhqq4efnm2r6o4b7q/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
     {
       "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2jlgwsjxc2k",
       "cid": "bafyreidi47xmcycoqnpgh6n5dmumwjlfsk7eqr4hjxikxuo2zw6kjowx74",
