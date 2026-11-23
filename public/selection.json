@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-20T17:27:01.047Z",
+  "updatedAt": "2026-11-23T21:50:58.525Z",
   "posts": [
+    {
+      "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2z46r7alc25",
+      "cid": "bafyreihyl4igxjmabxqeratj5hlb35q726heyuzcsnha7ze7v4dugcxnvm",
+      "text": "New video clipper on the tabletop has me thinking about in-place versus modal editing:",
+      "createdAt": "2026-11-23T21:47:14.409Z",
+      "author": {
+        "handle": "grantcuster.com",
+        "displayName": "grant",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l62qwgb24ao745n4lu3wjwes/bafkreifafxwsxdsvjwcblq3jsjfhelzk3rd6dsr4tmuxhsxpwt5axg46hu"
+      },
+      "postUrl": "https://bsky.app/profile/grantcuster.com/post/3n2z46r7alc25",
+      "video": {
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreidrvooa4r463sussxmaamectkjeh7kbvfwuvz5iv6qyb6fztjj2si/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Al62qwgb24ao745n4lu3wjwes/bafkreidrvooa4r463sussxmaamectkjeh7kbvfwuvz5iv6qyb6fztjj2si/thumbnail.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
     {
       "uri": "at://did:plc:l62qwgb24ao745n4lu3wjwes/app.bsky.feed.post/3n2r334i5vc25",
       "cid": "bafyreiag4y3b3ul7a3ve5n32wvztfupk3yidqtcx64omt6jbdxafi2gn6q",
